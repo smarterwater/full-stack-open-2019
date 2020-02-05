@@ -1,0 +1,3 @@
+[submodule "courseinfo"]
+	path = courseinfo
+	url = https://github.com/smarterwater/FullStackOpen.git
